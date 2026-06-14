@@ -75,7 +75,6 @@ Untuk mendukung analisis data analitikal yang optimal (OLAP) dan memungkinkan pe
 Pipeline diatur dengan jadwal harian (`@daily`) dengan parameter `catchup=False`.
 
 ### Tangkapan Layar Alur Graph DAG
-*(Silakan sematkan screenshot UI Airflow Anda di sini setelah pipeline berhasil berjalan)*
 
 ![Airflow DAG Graph Success Placeholder](https://raw.githubusercontent.com/HidayatHatta/assets-ml-terapan/main/ETL.png)
 
