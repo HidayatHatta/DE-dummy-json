@@ -77,7 +77,7 @@ Pipeline diatur dengan jadwal harian (`@daily`) dengan parameter `catchup=False`
 ### Tangkapan Layar Alur Graph DAG
 *(Silakan sematkan screenshot UI Airflow Anda di sini setelah pipeline berhasil berjalan)*
 
-![Airflow DAG Graph Success Placeholder](https://via.placeholder.com/800x200.png?text=Tempatkan+Screenshot+Graph+DAG+Airflow+Sukses+Disini)
+![Airflow DAG Graph Success Placeholder](https://raw.githubusercontent.com/HidayatHatta/assets-ml-terapan/main/ETL.png)
 
 * **extract**: Menarik data mentah dari API DummyJSON dan menyimpannya ke CSV Raw.
 * **transform**: Mengambil CSV Raw, melakukan pembersihan data, menormalisasi struktur tabel, dan menghasilkan pola skema bintang (*Star Schema*).
